@@ -64,3 +64,31 @@ The following table maps file extensions to the corresponding folders:
 
 After running the script, your Downloads folder might look something like this:
 
+Downloads/
+│
+├── PDFFolder/
+│ └── document.pdf
+├── ExcelFolder/
+│ ├── spreadsheet.xlsx
+│ └── report.xls
+├── JpgFolder/
+│ ├── image.jpg
+│ └── photo.jpeg
+├── PngFolder/
+│ └── graphic.png
+├── PowerPointFolder/
+│ └── presentation.pptx
+├── TextFolder/
+│ ├── notes.txt
+│ ├── essay.docx
+│ └── draft.doc
+├── CsvFolder/
+│ └── data.csv
+├── SoundFolder/
+│ ├── song.wav
+│ └── audio.ogg
+├── MovieFolder/
+│ └── movie.mkv
+└── Other/
+├── file.mjs
+└── software.dmg
