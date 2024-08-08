@@ -60,7 +60,7 @@ The following table maps file extensions to the corresponding folders:
 - **Adding New File Types:** To add support for additional file types, modify the `file_type_folders` dictionary in the script.
 - **Changing Folder Names:** You can change the folder names by updating the values in the `file_type_folders` dictionary.
 
-## Example Output
+<!-- ## Example Output
 
 After running the script, your Downloads folder might look something like this:
 
@@ -91,4 +91,4 @@ Downloads/
 │ └── movie.mkv
 └── Other/
 ├── file.mjs
-└── software.dmg
+└── software.dmg -->
